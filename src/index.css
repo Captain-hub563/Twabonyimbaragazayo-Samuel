@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-sans: 'DM Sans', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}

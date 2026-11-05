@@ -1,0 +1,6 @@
+{
+  "name": "Rwanda Smart Farming",
+  "description": "Smart Technology. Better Farming. A Better Future. Digital agriculture platform helping farmers across Rwanda with soil guidance, crop health investigation, fertilizer planning, smart irrigation, and market connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
